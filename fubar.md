@@ -6,4 +6,12 @@ ted's work on the fubar md.
 
 
 
-Ted's new feature on the master branch.
+Ted's new feature is added here...............
+
+
+$
+$
+$
+$
+$
+$$
